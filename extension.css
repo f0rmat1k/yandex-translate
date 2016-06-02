@@ -1,0 +1,22 @@
+.__y-translate-container
+{
+    position: fixed !important;
+    z-index: 50000 !important;
+    top: 10px !important;
+    right: 10px !important;
+
+    display: none !important;
+
+    max-width: 20% !important;
+    padding: 10px !important;
+
+    border-radius: 5px !important;
+    background: #a9dfeb !important;
+    color: #000;
+    font-size: 17px;
+}
+
+.__y-translate-container_showed_yes
+{
+    display: block !important;
+}
